@@ -1,4 +1,5 @@
 // @see: dup1.go
+// 也可通过 go run dup2.go test.txt 提供对应的文件名称, 可多个
 package main
 
 import (
